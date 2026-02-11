@@ -32,9 +32,3 @@ It is designed as a **menu-driven simulator**, supporting manual or random proce
 - Comparison mode to evaluate multiple algorithms side by side.  
 - Robust **input validation** and edge-case handling.
 
----
-
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/pavithraat/CPU-Scheduling-Simulator.git
